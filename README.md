@@ -1,6 +1,6 @@
 # freetime_ImageReader
 
-## Purpose of the application
+## Purpose of the application 
 The purpose of this application is to be able to read numerical values from an image based on configured areas for the reads. The reading is done using Google's Tesseract. 
 
 The goals for the final product are:

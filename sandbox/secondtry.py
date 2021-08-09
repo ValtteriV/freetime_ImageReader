@@ -14,7 +14,7 @@ from PIL import ImageGrab
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = 'nope'
+SAMPLE_SPREADSHEET_ID = 'no'
 
 SAMPLE_RANGE_NAME = 'Taulukko1!A2:G'
 
